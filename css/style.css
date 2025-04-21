@@ -77,6 +77,7 @@ p{
     font-weight: 600;
     color: var(--Very-dark-blue);
     transition: all .4s;
+    border:none;
 }
 .card3 button:hover{
     color: var(--Off-white);
